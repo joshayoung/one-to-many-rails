@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This repo outlines contains the code outlined in my blog post about setting up a one to many association in rails. Here is a link to the post: <a href='http://joshyoung.me/2018/one-to-many-associations/'>joshyoung.me/2018/one-to-many-associations/</a>.
